@@ -73,6 +73,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="指针验证.c" />
+    <ClCompile Include="指针练习1.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
 </Project>
