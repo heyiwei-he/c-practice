@@ -5,3 +5,8 @@
 *.ilk
 *.out
 a.out
+# Visual Studio 的中间目录
+x64/
+Debug/
+Release/
+.vs/
