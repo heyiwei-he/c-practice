@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "编译",
+      "type": "shell",
+      "command": "C:\\Users\\he\\Documents\\Codex\\c-practice\\build.cmd",
+      "args": ["${file}"],
+      "options": { "cwd": "${fileDirname}" },
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": ["$msCompile"],
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true }
+    },
+    {
+      "label": "编译并运行",
+      "type": "shell",
+      "command": "C:\\Users\\he\\Documents\\Codex\\c-practice\\run.cmd",
+      "args": ["${file}"],
+      "options": { "cwd": "${fileDirname}" },
+      "group": "build",
+      "problemMatcher": ["$msCompile"],
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true }
+    }
+  ]
+}

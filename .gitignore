@@ -1,0 +1,7 @@
+# 编译产物不要提交
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.out
+a.out
