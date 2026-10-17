@@ -11,3 +11,7 @@ Debug/
 Release/
 .vs/
 *.vcxproj.user
+# CMake 的构建目录
+build/
+CMakeCache.txt
+CMakeFiles/
