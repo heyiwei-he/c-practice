@@ -12,6 +12,49 @@
      git commit -m "今天学了什么"
 */
 
-#include <stdio.h>   /* 先留着，让文件不为空（否则会有 C4206 警告） */
+//#include <stdio.h>  
+//void skill()
+//{
+//    printf("liubi");
+//}
+//int main()
+//{
+//    void (*p)() = skill;
+//    p();
+//
+//    return 0;
+//}
 
-/* 你的练习代码写在下面 */
+//#include<stdio.h>
+//int plus(int num1, int num2)
+//{
+//    int result = num1 + num2;
+//    return result;
+//}
+//int minus(int num1, int num2)
+//{
+//    int result = num1 - num2;
+//    return 0;
+//}
+//int multiply(int num1, int num2)
+//{
+//    int result = num1 / num2;
+//    return 0;
+//}
+//int divide(int num1, int num2)
+//{
+//    int result = num1 * num2;
+//    return 0;
+//}
+//int main()
+//{
+//    int num1, num2;
+//    int (*arr[4])(int, int) = { plus,minus,multiply,divide };
+//    printf("请输入要计算的两个数:\n");
+//    scanf("%d %d", &num1, &num2);
+//    int choose;
+//    printf("请输入您所要进行的计算(加法：1 减法：2 乘法：3 除法：4)\n");
+//    scanf("%d", &choose);
+//    int result = (arr[choose - 1])(num1,num2);
+//    printf("计算的结果是：%d", result);
+//}
