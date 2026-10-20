@@ -24,5 +24,11 @@
     <ClCompile Include="指针自测.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="练习定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="超级复杂的定义.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
