@@ -29,7 +29,7 @@
 //	scanf("%d %d", &num1, &num2);
 //	printf("你要选择的计算是(1 代表加法；2 代表减法；3 代表乘法；4 代表除法)：\n");
 //	scanf("%d", &num0);
-//	int result = (*(*p + num0 - 1))(num1, num2);
+//	int result = *arr[num0](num1, num2);
 //	printf("计算的结果是：%d", result);
 //	return 0;
 //}

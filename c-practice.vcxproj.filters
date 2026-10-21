@@ -36,5 +36,8 @@
     <ClCompile Include="字符串数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="用户登录练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
