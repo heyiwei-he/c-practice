@@ -39,5 +39,11 @@
     <ClCompile Include="用户登录练习.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="洛谷练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
